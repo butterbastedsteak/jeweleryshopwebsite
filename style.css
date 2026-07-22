@@ -1,0 +1,13 @@
+#logoimg{
+  height:5em;
+}
+#navbar{
+  
+  background:linear-gradient(to right,rgb(146, 11, 11), rgb(180, 14, 50),rgb(104, 11, 11));
+  height: 5em;
+}
+#navlink{
+  color: rgba(233, 201, 18, 0.849);
+  font-size:larger;
+  font-weight: bold;
+}
